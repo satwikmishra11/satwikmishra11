@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Satwik Mishra👋
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
@@ -54,7 +54,7 @@ Here are some projects that I'm proud to showcase:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwikmishra11&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satwikmishhra11&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satwikmishra11&layout=compact&theme=radical)
 
 ---
 
