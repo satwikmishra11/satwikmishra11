@@ -1,6 +1,6 @@
 # Hi there, I'm Satwik Mishra👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/satwikmishra11) 
+[![GitHub followers](https://img.shields.io/github/followers/satwikmishra11?label=Follow&style=social)](https://github.com/satwikmishra11) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
 
 ---
