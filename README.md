@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building innovative solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
+I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building Innovative Solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
 
 - 🔭 I’m currently working on: 
   - Enhancing my personal OS project, **ZenithOS**
