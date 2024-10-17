@@ -32,7 +32,7 @@ Here’s a glimpse of the technologies and tools that I specialize in:
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects:-
 
 Here are some projects that I'm proud to showcase:
 
