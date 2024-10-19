@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building Innovative Solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
+I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building innovative solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
 
 - 🔭 I’m currently working on: 
   - Enhancing my personal OS project, **ZenithOS**
@@ -32,7 +32,7 @@ Here’s a glimpse of the technologies and tools that I specialize in:
 
 ---
 
-### 🌟 Featured Projects:-
+### 🌟 Featured Projects
 
 Here are some projects that I'm proud to showcase:
 
@@ -41,7 +41,8 @@ Here are some projects that I'm proud to showcase:
   _Languages: Assembly, C++_
 
 - **[Sign2Text](https://github.com/your-username/sign2text)**  
-  A Sign Language translation tool that converts gestures into text using AI-powered computer vision.  
+  A S
+ign language translation tool that converts gestures into text using AI-powered computer vision.  
   _Technologies: Python, TensorFlow, OpenCV_
 
 - **[Sancharsarthi Flutter](https://github.com/your-username/sancharsarthi-flutter)**  
