@@ -16,7 +16,7 @@ I'm a **Full Stack Developer** with a strong focus on **Web Development** and **
   - Advanced Machine Learning techniques
   - System-level programming and optimization
 - 💬 Ask me about:
-  - Web development, AI, machine learning, and system design
+  - Web development, AI, machine learning, and System Design
 
 ---
 
