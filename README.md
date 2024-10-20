@@ -46,7 +46,7 @@ ign language translation tool that converts gestures into text using AI-powered 
   _Technologies: Python, TensorFlow, OpenCV_
 
 - **[Sancharsarthi Flutter](https://github.com/your-username/sancharsarthi-flutter)**  
-  A cross-platform app for translating English sign language into Gujarati sign language using natural language processing (NLP).  
+  A cross-platform app for translating English Sign language into Gujarati sign language using natural language processing (NLP).  
   _Technologies: Flutter, Python, Computer Vision_
 
 ---
