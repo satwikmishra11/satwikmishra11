@@ -4,6 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
 
 ---
+
+
+
+
 <img align="right" alt="coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR4bHR6ZjJ2MGp1YzQ2aXlmZWtmaW1mZXJ5aGl5cDFjd2Nod2NvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif">
 ### 🚀 About Me
 
@@ -17,6 +21,10 @@ I'm a **Full Stack Developer** with a strong focus on **Web Development** and **
   - System-level programming and optimization
 - 💬 Ask me about:
   - Web development, AI, machine learning, and System Design
+
+
+
+
 
 ---
 
