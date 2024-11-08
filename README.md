@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
 
 ---
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRwaGp2bnZheXppY3NheDg0aXFjMzB3dXJ5bXJ3cGRpcDlocDJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhH2o6SHOjOtphR3DR/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRwaGp2bnZheXppY3NheDg0aXFjMzB3dXJ5bXJ3cGRpcDlocDJyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhH2o6SHOjOtphR3DR/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h3bXp2OXJvZWpidjZmajliazBrYXA1MThmdTBoM3I2ejdobjJjeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jtXRDVzaCPXSynUz7h/giphy.gif)">
 ### 🚀 About Me
 
 I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building innovative solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
