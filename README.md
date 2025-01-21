@@ -49,8 +49,7 @@ Here are some projects that I'm proud to showcase:
   _Languages: Assembly, C++_
 
 - **[Sign2Text](https://github.com/your-username/sign2text)**  
-  A S
-ign language translation tool that converts gestures into text using AI-powered computer vision.  
+  A Sign language translation tool that converts gestures into text using AI-powered computer vision.  
   _Technologies: Python, TensorFlow, OpenCV_
 
 - **[Sancharsarthi Flutter](https://github.com/your-username/sancharsarthi-flutter)**  
