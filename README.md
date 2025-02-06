@@ -17,8 +17,6 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/satwikM11?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-<img align="right" alt="coding" width="450" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR4bHR6ZjJ2MGp1YzQ2aXlmZWtmaW1mZXJ5aGl5cDFjd2Nod2NvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif">
-
 ---
 
 ### 🚀 About Me
