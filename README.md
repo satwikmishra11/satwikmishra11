@@ -1,7 +1,10 @@
 # Hi there, I'm Satwik Mishra👋
 
 [![GitHub followers](https://img.shields.io/github/followers/satwikmishra11?label=Follow&style=social)](https://github.com/satwikmishra11) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/satwikmishra)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/satwikmishra)
+
+---
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -14,10 +17,12 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/satwikM11?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-
-
+---
 
 <img align="right" alt="coding" width="450" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR4bHR6ZjJ2MGp1YzQ2aXlmZWtmaW1mZXJ5aGl5cDFjd2Nod2NvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif">
+
+---
+
 ### 🚀 About Me
 
 I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building innovative solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
