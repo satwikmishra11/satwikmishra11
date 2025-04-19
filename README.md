@@ -84,5 +84,4 @@ Here are some projects that I'm proud to showcase:
 ---
 
 _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
-![image](https://github.com/user-attachments/assets/cf7f0170-adde-4cb8-bd89-fb174c773ee9)
 
