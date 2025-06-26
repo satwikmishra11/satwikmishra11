@@ -3,7 +3,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/satwikmishra11?label=Follow&style=social)](https://github.com/satwikmishra11) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/satwik-mishra-56661025a)
 
----
 
 <h2 align="center">Leetcode Info:-<h2>  
 <p align="center">
@@ -13,7 +12,6 @@
   <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
----
 
 ### 🚀 About Me
 
