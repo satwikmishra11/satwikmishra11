@@ -14,9 +14,9 @@
 
 <br>
 
-check out my latest app: [Supercharge](https://sindresorhus.com/supercharge) ![](hot.gif)
+check out my latest app: [Zynexhub](https://zynex-hub.vercel.app/auth) ![](hot.gif)
 
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
+and my [latest blog post](https://satwikmishraa.com/blog) ![](hot.gif)
 
 <br>
 <br>
