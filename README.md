@@ -7,8 +7,8 @@
 
 <h2 align="center">Leetcode Info:-<h2>  
 <p align="center">
-  <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-07.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/satwikM11/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
