@@ -15,17 +15,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a **Full Stack Developer** with a strong focus on **Web Development** and **Machine Learning**. I love building innovative solutions that bridge technology and real-world problems. With a background in **Computer Science**, I’ve been creating projects that span across different domains, from operating systems to AI-powered tools for accessibility.
 
-- 🔭 I’m currently working on: 
+- I’m currently working on: 
   - Enhancing my personal OS project, **ZenithOS**
   - Developing new AI solutions for language translation
-- 🌱 I’m currently learning: 
+- I’m currently learning: 
   - Advanced Machine Learning techniques
   - System-level programming and optimization
-- 💬 Ask me about:
+- Ask me about:
   - Web development, AI, machine learning, and System Design
 
 
@@ -34,7 +34,7 @@ I'm a **Full Stack Developer** with a strong focus on **Web Development** and **
 
 ---
 
-### 💻 Technologies I Work With
+### Technologies I Work With
 
 Here’s a glimpse of the technologies and tools that I specialize in:
 
@@ -46,7 +46,7 @@ Here’s a glimpse of the technologies and tools that I specialize in:
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 Here are some projects that I'm proud to showcase:
 
@@ -64,7 +64,7 @@ Here are some projects that I'm proud to showcase:
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwikmishra11&show_icons=true&theme=radical)
 
@@ -75,7 +75,7 @@ Here are some projects that I'm proud to showcase:
 ---
 ![snake gif](https://github.com/satwikmishra11/satwikmishra11/blob/output/github-snake-dark.svg)
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/satwikmishra46/)
 - GitHub: [Explore my repositories](https://github.com/satwikmishra11)
